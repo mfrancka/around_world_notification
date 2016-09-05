@@ -1,0 +1,10 @@
+[email]
+login = user@host.pl
+password = xxxxxxxxx
+host = host.pl
+port = 587
+tls= True
+[notification]
+subject = Nowy post na stronie Bartka
+recipient = user@host.pl
+sender = user@host.pl
